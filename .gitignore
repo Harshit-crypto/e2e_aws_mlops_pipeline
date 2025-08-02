@@ -5,3 +5,4 @@ pyvenv.cfg
 Include
 logs
 __pycache__
+artifacts
